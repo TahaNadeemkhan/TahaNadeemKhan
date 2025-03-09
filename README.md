@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taha Nadeem</h1>
 <h3 align="center">A passionate Cloud Applied Agentic AI Engineer student</h3>
 
-<img align="right" alt="coding" width="400" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2025/01/unnamed.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahanadeemkhan&label=Profile%20views&color=0e75b6&style=flat" alt="tahanadeemkhan" /> </p>
 
