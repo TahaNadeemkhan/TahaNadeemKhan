@@ -8,6 +8,7 @@
 - Currently enrolled in **Agentic & Robotics AI Engineer**
 
 - 📫 Reach me at: **tahak6884@gmail.com**
+- View my work: **https://portfolio-one-puce-52.vercel.app/**
 
 - ⚡ Developing **AI Chatbots and providing AI and cloud services**
 
