@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taha Nadeem</h1>
-<h3 align="center">A passionate Cloud Applied Agentic AI Engineer student</h3>
+<h3 align="center">A passionate Agentic AI Engineer </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
